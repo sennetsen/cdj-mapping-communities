@@ -1,0 +1,7 @@
+﻿ID,Borough,Name,Rank_1_Cancer_Number,Rank_1_Cancer_Rate,Rank_2_Cancer_Number,Rank_2_Cancer_Rate,Rank_3_Cancer_Number,Rank_3_Cancer_Rate
+0,City,NYC,"2,890",7.1,"1,884",8.9,"1,762",4.4
+1,NYC,Manhattan,465,6.1,304,3.9,286,7.2
+2,NYC,Bronx,609,9.1,367,10.3,324,4.9
+3,NYC,Brooklyn,918,7.8,672,10.6,573,4.9
+4,NYC,Queens,663,5.6,462,7.7,445,3.8
+5,NYC,Staten Island,235,9.2,116,4.7,97,7.5
